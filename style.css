@@ -1,0 +1,25 @@
+/* Styles for Set Alarm button and Alarm Display */
+.set-alarm {
+  margin-top: 20px;
+}
+
+.set-alarm h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.set-alarm input {
+  width: 40px;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.set-alarm select {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.set-alarm button {
+  padding: 5px 10px;
+  background-color: #007BFF;
+}
